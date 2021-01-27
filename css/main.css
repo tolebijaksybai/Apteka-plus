@@ -1209,7 +1209,7 @@ img {
 .section-top {
 	height: 100vh;
 	min-height: 600px;
-	background: #0e1419 no-repeat center;
+	background: #0e1419 url(/img/section-top/apteka.jpg) no-repeat center;
 	background-size: cover;
 	color: #fff;
 	display: flex;
@@ -1286,7 +1286,7 @@ img {
 	position: relative;
 	display: flex;
 	/* justify-content: flex-end; */
-	max-width: 1400px;
+	/* max-width: 1400px; */
 }
 
 .section-about__img {
